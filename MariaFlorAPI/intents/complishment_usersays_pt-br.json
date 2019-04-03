@@ -1,0 +1,111 @@
+[
+  {
+    "id": "eb76c11e-a95f-4a7f-ad5d-62986c5092d7",
+    "data": [
+      {
+        "text": "Tudo bem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "beee0972-fbbc-4baa-8158-3e743efe9c6e",
+    "data": [
+      {
+        "text": "Qual que é da boa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2506dd61-0fca-4ae0-9915-6b8b1ab3c09c",
+    "data": [
+      {
+        "text": "Suavera?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8b54bd6-ab04-4e0a-aadf-2e15f83f5d62",
+    "data": [
+      {
+        "text": "Tdb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c387902-efd7-424e-bbab-4c2738835677",
+    "data": [
+      {
+        "text": "Td bem ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ce5a8ad-1d4e-4538-bcbe-030b6989b529",
+    "data": [
+      {
+        "text": "Tudo ",
+        "userDefined": false
+      },
+      {
+        "text": "numa",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " boa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "291aea3d-687c-47f1-9999-888d25ada3f2",
+    "data": [
+      {
+        "text": "Tranquilo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16aa2a56-95c1-4844-8bae-b6c6a500e710",
+    "data": [
+      {
+        "text": "Suave?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7f79dedc-c51b-4cce-9195-7f3d38612df9",
+    "data": [
+      {
+        "text": "Beleza?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

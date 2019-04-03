@@ -1,0 +1,47 @@
+{
+  "id": "b01e720c-edf0-4c29-a3aa-2ed1f5a292b2",
+  "name": "complishment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "complishment-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b03d5dcc-fd36-4ad6-be35-3eab79b8d92b",
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "Estou bem, e você?",
+            "Tô suave, e você?",
+            "Sim, e quanto a você?",
+            "Tudo tranquilo, e você?",
+            "Tudo numa boa e aí?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

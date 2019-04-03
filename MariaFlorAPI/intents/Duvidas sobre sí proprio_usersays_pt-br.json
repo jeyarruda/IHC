@@ -1,0 +1,24 @@
+[
+  {
+    "id": "8b4be747-7ff5-435d-b1e6-94ed743017c5",
+    "data": [
+      {
+        "text": "o que você acha sobre a minha pessoa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a51e084c-d99b-4cd8-b6bc-2e8d75e13142",
+    "data": [
+      {
+        "text": "oq vc acha de mim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

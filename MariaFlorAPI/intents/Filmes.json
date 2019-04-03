@@ -1,0 +1,27 @@
+{
+  "id": "6c824833-41b2-45c1-b992-aa094b26f3e9",
+  "name": "Filmes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Sim, gosto! Meu filme favorito é o Fabuloso destino de Amélie Poulain, um filme Francês, maravilhosamente incrível!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

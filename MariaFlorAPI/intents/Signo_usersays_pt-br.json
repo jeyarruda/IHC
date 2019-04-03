@@ -1,0 +1,35 @@
+[
+  {
+    "id": "d6ea614a-1bb2-4a6d-aafd-e7a39820fb1a",
+    "data": [
+      {
+        "text": "Qual é o seu signo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e60d8c0-601b-4761-8b8c-7316d025ce6a",
+    "data": [
+      {
+        "text": "Qual e o seu signo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "906c2b99-39c5-451b-ad33-548eacd48ec2",
+    "data": [
+      {
+        "text": "qual o seu signo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  }
+]

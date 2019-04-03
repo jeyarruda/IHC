@@ -1,0 +1,68 @@
+[
+  {
+    "id": "05bcd006-f921-409e-b90b-fb8762c12063",
+    "data": [
+      {
+        "text": "sua cor favorita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7697a93b-d10a-4e2d-b1f2-480b64e4bc7a",
+    "data": [
+      {
+        "text": "Qual é a sua favorita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05cafbc3-249d-4437-897a-035cca31eaef",
+    "data": [
+      {
+        "text": "qual é a sua cor favorita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dba2fec0-76c3-4462-967e-484f2f7e0788",
+    "data": [
+      {
+        "text": "Qual é sua cor favorita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d75a504-4fe0-4f68-bc96-45786a871710",
+    "data": [
+      {
+        "text": "qual e sua cor favorita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c88058f5-546d-4701-87fa-09f7501d6fae",
+    "data": [
+      {
+        "text": "qual sua cor favorita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

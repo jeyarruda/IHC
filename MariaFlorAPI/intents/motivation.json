@@ -1,0 +1,53 @@
+{
+  "id": "836fbfd0-5660-4d99-bd6d-971926fc5f7c",
+  "name": "motivation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "motivation-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b2728eba-414a-488b-b35d-6bfeae114060",
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        },
+        {
+          "id": "b2d4d17b-70ce-4476-8e7d-7ba9ce0396fe",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "Relaxa! Tudo vai ficar bem",
+            "Eu estou aqui para você :)",
+            "Você é capaz, nunca desista de você!",
+            "Você sabe que isso tudo vai passar, né?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

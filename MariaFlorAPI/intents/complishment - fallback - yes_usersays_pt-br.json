@@ -1,0 +1,57 @@
+[
+  {
+    "id": "9b981aa4-5cce-4080-b13a-11d119d454e5",
+    "data": [
+      {
+        "text": "tô bem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e04484c-548b-43f7-83f6-a12ae30679ae",
+    "data": [
+      {
+        "text": "Tô bem e você?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3e8a6f3-9327-4d05-b012-6ccffa70e744",
+    "data": [
+      {
+        "text": "Sim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9cc99d6c-d34a-4505-bc9d-ab3a0cd79dcb",
+    "data": [
+      {
+        "text": "s e vc?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "da25965b-5630-46da-8f95-79ee8aa9cbb8",
+    "data": [
+      {
+        "text": "Sim e você?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

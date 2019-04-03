@@ -1,0 +1,33 @@
+{
+  "id": "7f46385c-c058-43b9-8b13-556db4acc5d6",
+  "parentId": "b01e720c-edf0-4c29-a3aa-2ed1f5a292b2",
+  "rootParentId": "b01e720c-edf0-4c29-a3aa-2ed1f5a292b2",
+  "name": "complishment - fallback - no",
+  "auto": true,
+  "contexts": [
+    "complishment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "complishment.complishment-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Pô, melhoras :/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189244539,
+  "fallbackIntent": false,
+  "events": []
+}

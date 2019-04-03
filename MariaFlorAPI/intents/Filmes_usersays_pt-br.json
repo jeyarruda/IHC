@@ -1,0 +1,68 @@
+[
+  {
+    "id": "f19b949a-d036-46fd-9160-bad4bcc2e1fe",
+    "data": [
+      {
+        "text": "qual seu filme favorito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4041a4ad-ce99-4b33-9127-4a2936de7190",
+    "data": [
+      {
+        "text": "qual e o seu filme favorito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d246f7f-c353-402b-b086-2b84e3af1953",
+    "data": [
+      {
+        "text": "qual filme vc mais gostou de ter assistido na vida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "940fdd7c-46a6-41da-8e8d-9e011692a9b8",
+    "data": [
+      {
+        "text": "Qual é o seu filme favorito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64194067-c049-4d41-a789-dab1fd87e547",
+    "data": [
+      {
+        "text": "vc gosta de filmes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a277780-8d53-4410-b5fe-d815a19ee042",
+    "data": [
+      {
+        "text": "qual o seu filme favorito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

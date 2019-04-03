@@ -1,0 +1,79 @@
+[
+  {
+    "id": "8cfc080c-f0d2-4265-8527-637da6be1bc5",
+    "data": [
+      {
+        "text": "qual é sua comida favorita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3966ea51-ba43-49f1-9973-29d2b5f064af",
+    "data": [
+      {
+        "text": "Qual e sua comida favorita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dc54fd38-a233-4b85-aca0-2deb602cefdc",
+    "data": [
+      {
+        "text": "qual e sua comida preferida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2bda1c34-6938-411f-8850-469b566856e3",
+    "data": [
+      {
+        "text": "Qual é a sua comida preferida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91556836-fe47-44a6-940c-fa5d1c8b5298",
+    "data": [
+      {
+        "text": "qual sua comida favorita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4832eca8-4eb8-4da7-8d02-f76998e70e7d",
+    "data": [
+      {
+        "text": "qual seria a sua comida favorita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34ad89a3-1b63-475b-909f-98d9ad6a9c3f",
+    "data": [
+      {
+        "text": "qual é a sua comida favorita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4
+  }
+]
