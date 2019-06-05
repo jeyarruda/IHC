@@ -1,0 +1,46 @@
+[
+  {
+    "id": "2b71edc3-1400-4d50-96b8-05a4210619d6",
+    "data": [
+      {
+        "text": "oq vc acha da Monica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af3fccaa-6788-48d2-abbe-763ec342a2a1",
+    "data": [
+      {
+        "text": "a monica é otaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9bf73bd5-af96-4270-91d2-3685701ac9a9",
+    "data": [
+      {
+        "text": "Monica otaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ee42f656-1833-4335-b07f-9bd32c866895",
+    "data": [
+      {
+        "text": "Mônica otaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

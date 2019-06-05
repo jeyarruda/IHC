@@ -1,18 +1,19 @@
 {
-  "id": "df594069-4f59-4ca0-89a0-3801f0f63d0d",
-  "name": "Comida Favorita",
+  "id": "2223c94a-4a83-4f3b-8d73-e0b06c95c075",
+  "name": "aaa",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
           "lang": "pt-br",
-          "speech": "Minha comida favorita é pizza de mussarela e presunto."
+          "speech": "Test"
         }
       ],
       "defaultResponsePlatforms": {},

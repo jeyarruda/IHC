@@ -1,6 +1,6 @@
 {
-  "id": "df594069-4f59-4ca0-89a0-3801f0f63d0d",
-  "name": "Comida Favorita",
+  "id": "497d9d0b-5734-439f-8035-560a2a458b3f",
+  "name": "Chingamentos",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -12,7 +12,10 @@
         {
           "type": 0,
           "lang": "pt-br",
-          "speech": "Minha comida favorita é pizza de mussarela e presunto."
+          "speech": [
+            "isso é vdd, mas o João é menos",
+            "isso é verdade, mas o João é bem menos"
+          ]
         }
       ],
       "defaultResponsePlatforms": {},
